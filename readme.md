@@ -37,4 +37,5 @@ Figure 3. ANN search demonstration of SCDC model for STL-10. From left to right:
 Thi-Anh-Loan Trinh and The-Anh Pham, "An effective deep clustering model for feature quantization and representation", Accepted in Information Visualization (In Press), 2025.
 ```
 
-![Table 1](./assets/paper.jpg)
+• **Link to the paper:**  
+[https://doi.org/10.1177/14738716251342965](https://doi.org/10.1177/14738716251342965)
